@@ -23,9 +23,9 @@ I'm a Senior Microsoft 365 / Azure engineer focused on building reasoning agents
 
 ## Connect
 
-- 🌐 Website: [nagarjunac.dev](https://nagarjunac.dev)
-- 📝 Writing: [nagarjunach.substack.com](https://nagarjunach.substack.com)
-- 💼 LinkedIn: [Nagarjuna Chamidisetty](https://www.linkedin.com/in/nagarjunachamidisetty/) <!-- update if URL differs -->
+- 🌐 Website: [Website](https://nagarjunac.dev)
+- 📝 Writing: [Substack](https://nagarjunach.substack.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nchamid/) <!-- update if URL differs -->
 
 ---
 
